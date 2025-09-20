@@ -98,4 +98,5 @@ Este projeto é desenvolvido para fins acadêmicos como parte do curso de Estat�
 Computacional.
 Universidade Federal da Paraíba (UFPB)
 Departamento de Estatística
-Programa de Pós-Graduação em Modelos de Decisão e Saúde (PPGMDS
+
+  
